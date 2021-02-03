@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+}
+
+body {
+    font-size: 62.5%;
+}
+
+#divBody {
+    padding: 1rem;
+    font-size: 1rem;
+}
+
+footer {
+    padding: 1rem;
+    text-align: right;
+    background: gray;
+    color: antiquewhite;
+}
